@@ -12,7 +12,7 @@ Focuses on the features with the highest correlation coefficients to improve pre
 
 # Key findings:
 
-**Correlation Analysis:** TV advertising has the highest correlation with sales, with a correlation coefficient of 0.901208, making it the most significant single predictor.
+**Correlation Analysis:** TV advertising has the highest correlation with sales, with a correlation coefficient of 0.90, making it the most significant single predictor.
 
 # Model Performance:
 
